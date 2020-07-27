@@ -18,7 +18,7 @@
   <img align="left" alt="Ashitosh's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=SpaceBaar.SpaceBaar)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SpaceBaar.SpaceBaar)
 
 <br />
 
